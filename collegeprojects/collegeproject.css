@@ -1,0 +1,44 @@
+
+body{
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items:center;
+        color:black;
+     }
+header{
+    color:black;
+    font-size:25px;
+}
+h1,h2,h3{
+    text-align:center;
+    font-family:Bebus Neue;
+}
+.navbar-brand{
+    border:10px solid none;
+    width:300px;
+    padding-left:50px;
+    padding-right:700px;
+}
+.dropdown-item{
+    padding-left:500px;
+    padding-right:500px;
+}
+button{
+    width:200px;
+    padding-right:200px;
+}
+nav{
+    width:100%;
+    border-width:2px;
+    border-color:#FF5C58;
+    border-style:solid;
+    padding:50px;
+}
+section{
+    width:60%;
+    padding:50px 90px;
+}
+#heading{
+    padding:30px;
+}
